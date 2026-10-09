@@ -1,0 +1,22 @@
+{
+    "001": {
+        "name": "php",
+        "teacher": "huzeifa"
+    },
+    "002": {
+        "name": "java",
+        "teacher": "seid"
+    },
+    "003": {
+        "name": "js",
+        "teacher": "Ali"
+    },
+    "004": {
+        "name": "database",
+        "teacher": "faruk"
+    },
+    "005": {
+        "name": "python",
+        "teacher": "abdellah"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "001": {
+        "fname": "seid",
+        "lname": "dere",
+        "age": "12",
+        "department": "sof",
+        "year": "66787",
+        "section": "e",
+        "contact": "8889"
+    },
+    "002": {
+        "fname": "seid",
+        "lname": "moha",
+        "age": "88",
+        "department": "sof",
+        "year": "1980",
+        "section": "e",
+        "contact": "6756789"
+    },
+    "003": {
+        "fname": "seada",
+        "lname": "huss",
+        "age": "23",
+        "department": "sof",
+        "year": "2000",
+        "section": "e",
+        "contact": "87789222"
+    },
+    "sdfghj": {
+        "fname": "8765",
+        "lname": "767",
+        "age": "kjhjhg",
+        "department": "8776",
+        "year": "kjhg",
+        "section": "87",
+        "contact": "kjhg"
+    }
+}
